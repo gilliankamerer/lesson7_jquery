@@ -13,10 +13,11 @@ Gillian Kamerer
 The assignment teaches the basics of jquery, and to show how jquery can simplify JavaScript code, modify, and animate elements of a web page.
 
 ### View Project Online:
-https://gilliankamerer.github.io/lesson7_jquery/
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
 ### Lessons Learned in the Assignment:
-1. JQuery is the most popular JavaScript framework, and that is most likely because it works on many platforms, and even runs the same on Internet Explorer 6.
-2. JQuery utilizes the "$" symbol before statements, and looks like a different language.
-3. You can modify the CSS file through the use of jQuery statements, and you can also animate elements with minimal code.
+1. (Briefly describe a lesson/concept learned in this lesson.)
+2. (Briefly describe a lesson/concept learned in this lesson.)
+3. (Briefly describe a lesson/concept learned in this lesson.)
 

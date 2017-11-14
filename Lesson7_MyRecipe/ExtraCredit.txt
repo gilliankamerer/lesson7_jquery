@@ -1,0 +1,8 @@
+In this extra credit portion of the assignment, I:
+
+-added a DOM traversal: display 2 (Ingredients and Instructions) is toggled very quickly. 
+
+-added a CSS change: line 49 and 50 create a 100px space between h2 and h3.  
+
+-added an animation/event: line 46 and 47 use ".append" to add "ENJOY!!" at the end of the instructions.
+
